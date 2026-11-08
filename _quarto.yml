@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Robert Hidalgo-Mahmud"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/rhidalgomahmud
+
+format:
+  html:
+    theme: cosmo
+    toc: false
