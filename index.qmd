@@ -1,5 +1,6 @@
 ---
-title: false
+title: "Home"
+title-block-style: none
 ---
 
 ::: {.hero}
