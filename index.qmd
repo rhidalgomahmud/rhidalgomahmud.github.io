@@ -1,0 +1,30 @@
+---
+title: "Home"
+title-block-banner: false
+---
+
+# Robert Hidalgo-Mahmud
+
+**Physicist | MSc in Advanced Physics (Fluid Physics)**
+
+## About me
+
+I am a physicist specialising in fluid physics,
+with interests in computational modelling,
+numerical methods, and fluid mechanics.
+
+## Research interests
+
+- Computational Physics
+- Fluid Mechanics
+- Interfacial Phenomena
+- Numerical Modelling
+
+## Projects
+
+### PENDROPy
+
+A Python framework for the numerical analysis
+of pendant drops with elastic fluid-fluid interfaces.
+
+[View on GitHub](https://github.com/rhidalgomahmud)
