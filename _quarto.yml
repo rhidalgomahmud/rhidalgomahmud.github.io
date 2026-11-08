@@ -3,7 +3,9 @@ project:
 
 website:
   title: "Robert Hidalgo-Mahmud"
+
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -13,11 +15,17 @@ website:
         text: Projects
       - href: cv.qmd
         text: CV
+
     right:
       - icon: github
         href: https://github.com/rhidalgomahmud
 
+  page-footer:
+    center: "© 2026 Robert Hidalgo-Mahmud"
+
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false
+    linkcolor: "#2563a6"
