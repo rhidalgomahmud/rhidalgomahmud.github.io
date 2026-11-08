@@ -2,4 +2,21 @@
 title: "Research"
 ---
 
-Content coming soon.
+## Research interests
+
+My research interests lie in computational physics,
+with a focus on fluid mechanics and numerical modelling.
+
+Areas of interest include:
+
+- Fluid mechanics and interfacial phenomena
+- Computational and numerical methods
+- Inverse problems and parameter estimation
+- Sensitivity and uncertainty analysis
+
+## Master's thesis
+
+My Master's thesis focused on the numerical analysis
+of pendant drops with elastic fluid–fluid interfaces,
+investigating the recovery of interfacial elastic
+parameters and the influence of measurement errors.
