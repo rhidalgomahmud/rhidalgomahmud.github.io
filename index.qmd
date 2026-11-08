@@ -7,7 +7,7 @@ title-block-style: none
 
 # Robert Hidalgo-Mahmud
 
-**Physicist | MSc in Advanced Physics (Fluid Physics)**
+**Physicist | MSc in Advanced Physics, Specialisation in Fluid Physics**
 
 Computational Physics · Fluid Mechanics · Numerical Modelling
 
