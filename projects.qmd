@@ -2,4 +2,22 @@
 title: "Projects"
 ---
 
-Content coming soon.
+## PENDROPy
+
+**Python framework for the numerical analysis of
+pendant drops with elastic fluid–fluid interfaces.**
+
+PENDROPy is a scientific computing project developed
+as part of my Master's thesis.
+
+The framework supports the numerical study of
+pendant-drop profiles and the estimation of
+interfacial elastic parameters.
+
+### Main topics
+
+- Numerical modelling
+- Parameter estimation
+- Sensitivity analysis
+
+[My GitHub profile](https://github.com/rhidalgomahmud)
